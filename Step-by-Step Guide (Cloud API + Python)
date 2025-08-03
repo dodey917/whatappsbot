@@ -1,0 +1,5 @@
+whatsapp-bot/
+│
+├── app.py
+├── requirements.txt
+├── render.yaml
